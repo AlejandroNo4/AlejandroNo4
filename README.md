@@ -1,7 +1,7 @@
 ## Hi there! 👋  I'm Alejandro
 
 ### I'm a chef, cat dad, and now a developer!
-- 🔭 I’m currently working on develop my skills.
+- 🔭 I’m currently working on developing my skills.
 - 🌱 I’m currently learning to strengthen my weaknesses.
 - 👯 I’m looking to collaborate with anyone who wants to exchange knowledge.
 - 😄 Pronouns: He/Him.
