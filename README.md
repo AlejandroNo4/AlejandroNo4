@@ -1,4 +1,4 @@
-![](./AlejandroBanner.png)
+![](./AlejandroB.png)
 
 ## Hi there! 👋  I'm Alejandro
 
