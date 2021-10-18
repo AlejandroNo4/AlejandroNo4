@@ -1,6 +1,6 @@
 ![](./AlejandroB.png)
 
-<img heigth="100px" alt="banner" src="./AlejandroB.png" />
+<img width="300px" alt="banner" src="./AlejandroB.png" />
 
 ## Hi there! 👋  I'm Alejandro
 
