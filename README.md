@@ -1,4 +1,4 @@
-![](https://github.com/AlejandroNo4/AlejandroBanner.png)
+![](./AlejandroBanner.png)
 
 ## Hi there! 👋  I'm Alejandro
 
