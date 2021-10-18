@@ -1,5 +1,7 @@
 ![](./AlejandroB.png)
 
+<img heigth="200px" alt="banner" src="./AlejandroB.png" />
+
 ## Hi there! 👋  I'm Alejandro
 
 ### I'm a chef, cat dad, and now a developer!
