@@ -1,6 +1,4 @@
-![](./AlejandroB.png)
-
-<img width="300px" alt="banner" src="./AlejandroB.png" />
+![](./AlejandroBanner.png)
 
 ## Hi there! 👋  I'm Alejandro
 
